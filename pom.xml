@@ -15,6 +15,7 @@
         <module>Dependency-Injection/Property-Injection</module>
         <module>Dependency-Injection/Constructor-Injection</module>
         <module>Dependency-Injection/Setter-Injection</module>
+        <module>Dependency-Injection/Interface-injection</module>
     </modules>
 
     <properties>
